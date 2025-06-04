@@ -1,5 +1,5 @@
 # Wireguard
-Modified scripts based on the "official" recommendation on setting up [WireGuard]([url](https://upvpn.app/articles/post/wireguard-vpn-on-hetzner))
+Modified scripts based on the "official" recommendation on setting up [Wireguard](https://upvpn.app/articles/post/wireguard-vpn-on-hetzner).
 
 ## First time setup on the server
 1. copy the contents of `setup-wireguard.sh` to the server
